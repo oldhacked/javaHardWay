@@ -39,4 +39,5 @@ public class MathOperations{
 		System.out.println(" 6*7/8+9-100 equals " + h );
 		System.out.println( h + " % 11  " + w );
 	}
+	
 }
