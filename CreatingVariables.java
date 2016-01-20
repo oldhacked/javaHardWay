@@ -28,5 +28,6 @@ public class CreatingVariables{
 		System.out.println( "My name's " + title + " " + firstName + lastName );
 		System.out.println( "Enduring " + flatulence + " hours of flatulence + " + mouthbreathing + " hours of mouthbreathing is a " + diagnosis + "\'s " 
 			+ result );
+		
 	}
 }
