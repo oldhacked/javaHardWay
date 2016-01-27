@@ -34,5 +34,5 @@ public class HeronsFormula {
 }
 /*Drill:
 	 To not use a function in this situation would require a lot more code, thus 
-	 requiring a lot more time if changes need to be made. 
+	 requiring a lot more time to make changes to the code. 
 */
